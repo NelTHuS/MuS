@@ -15,7 +15,7 @@
         if (!dom.mobileToolbarTitle) {
             return;
         }
-        dom.mobileToolbarTitle.textContent = "NeO'S MuSiC";
+        dom.mobileToolbarTitle.textContent = "Solara";
     }
 
     function updateMobileOverlayScrim() {
